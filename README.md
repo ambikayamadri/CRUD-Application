@@ -1,0 +1,4 @@
+# CRUD Application
+This application is a basic CRUD (Create, Read, Update, Delete) system for managing teacher records. It allows users to add new teachers, view existing teacher records, edit teacher details, and delete teachers from the database. The application is built using raw PHP and focuses on functionality rather than the user interface.
+
+To run this application, you need to create and connect a MySQL database using XAMPP or any other local web server with MySQL support. Make sure to set up a database named your_database with a table named teachers having the required columns (id, name, age, phone_no, and subject_name).
